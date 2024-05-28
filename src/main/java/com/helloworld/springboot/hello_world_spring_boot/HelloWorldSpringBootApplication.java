@@ -10,7 +10,7 @@ public class HelloWorldSpringBootApplication {
 		System.out.println("Hey theree!!!!!");
 		System.out.println("-------------------------------");
 		SpringApplication.run(HelloWorldSpringBootApplication.class, args);
-		System.out.println("-------------------------------");
+		System.out.println("---------------------------------------------------------------------------------------");
 	}
 
 }
